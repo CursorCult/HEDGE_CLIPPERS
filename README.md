@@ -1,3 +1,5 @@
+# Part of the [CursorCult](https://github.com/CursorCult)
+
 # NoHedging
 
 Reduce unnecessary defensive programming (hedging) that makes code unstable.
